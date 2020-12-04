@@ -1,0 +1,22 @@
+*,1,İstanbul - Kocaeli,Halil,Mercedes - Benz Travego,45HHH45,22.04.2020 00:09:27 
+1,1,55,,,,Boş     
+1,2,55,,,,Boş     
+1,3,55,,,,Boş     
+1,4,55,,,,Boş     
+1,5,55,,,,Boş     
+1,6,55,,,,Boş     
+1,7,55,,,,Boş     
+1,8,55,,,,Boş     
+1,9,55,,,,Boş     
+1,10,55,,,,Boş     
+*,2,İzmir - İstanbul,Mert,Mercedes - Benz Travego,34LKK10,22.04.2020 00:10:15 
+2,1,11,aa,aa,Erkek,Satın Al    
+2,2,11,,,,Boş    
+2,3,11,,,,Boş    
+2,4,11,,,,Boş    
+2,5,11,,,,Boş    
+2,6,11,,,,Boş    
+2,7,11,,,,Boş    
+2,8,11,,,,Boş    
+2,9,11,,,,Boş    
+2,10,11,aa,aa,Erkek,Satın Al    

@@ -1,0 +1,15 @@
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.Properties.Resources.resources
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.SeferEkleUserControl.resources
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.SeferİslemleriUserControl.resources
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\OtobüsFirma\bin\Debug\OtobüsFirma.exe.config
+C:\Users\Omer\source\repos\OtobüsFirma\bin\Debug\OtobüsFirma.exe
+C:\Users\Omer\source\repos\OtobüsFirma\bin\Debug\OtobüsFirma.pdb
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.exe
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.pdb
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.Form1.resources
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.BiletİslemleriUserControl.resources
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.GecmisSeferUserControl.resources
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.SeferGelirUserControl.resources
+C:\Users\Omer\source\repos\OtobüsFirma\obj\Debug\OtobüsFirma.csprojAssemblyReference.cache

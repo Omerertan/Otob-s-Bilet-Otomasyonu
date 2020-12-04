@@ -1,0 +1,11 @@
+*,1,Kocaeli - İstanbul,Erdi,Mercedes - Benz Travego,55TTT55,25.04.2020 21:48:55 
+1,1,12,Ali,ER,Erkek,Satın Al   
+1,2,12,,,,Boş   
+1,3,12,,,,Boş   
+1,4,12,,,,Boş   
+1,5,12,,,,Boş   
+1,6,12,,,,Boş   
+1,7,12,,,,Boş   
+1,8,12,,,,Boş   
+1,9,12,,,,Boş   
+1,10,12,Fatma,Gör,Erkek,Satın Al   

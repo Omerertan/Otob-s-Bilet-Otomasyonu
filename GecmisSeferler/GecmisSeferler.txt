@@ -1,0 +1,8 @@
+*,1,İstanbul - Kocaeli,34AS34,Mercede - Benz Travego,Ömer,3.4.2020 10.30.00
+1,1,50,yolcu Adı1,yolcu Soyadı1,Erkek,Satın Al
+1,2,50,yolcu Adı2,yolcu Soyadı2,Erkek,Satın Al
+1,3,50,yolcu Adı3,yolcu Soyadı3,Erkek,Rezervasyon
+*,2,İzmir - Kocaeli,34AS34,Setra S,aaa,3.4.2020 10.30.00
+2,1,70,yolcu Adı1,yolcu Soyadı1,Erkek,Satın Al
+2,2,70,yolcu Adı2,yolcu Soyadı2,Erkek,Satın Al
+2,3,70,yolcu Adı3,yolcu Soyadı3,Erkek,Rezervasyon
